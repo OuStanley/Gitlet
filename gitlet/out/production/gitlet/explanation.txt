@@ -1,0 +1,13 @@
+The reason we are late is because we didn't think of a good design at
+the beginning.
+
+
+1. We were confused on what the difference
+and purpose of serializing and sha1'ing something was so that dragged
+us down.
+
+
+2. We had many issues dealing with git and merging errors between the
+four of us
+
+3. Merge took longer than expected, so we are debugging that. 
